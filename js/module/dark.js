@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 02 Feb 2023 16:44:03 GMT
+ * Generated on Thu, 02 Feb 2023 17:43:25 GMT
  */
 
 module.exports = {
@@ -23,7 +23,7 @@ module.exports = {
   "elevate": {
     "20": [
       {
-        "color": "#0000001a",
+        "color": "#1717171a",
         "type": "dropShadow",
         "x": 0,
         "y": ".25rem",
@@ -31,7 +31,7 @@ module.exports = {
         "spread": 0
       },
       {
-        "color": "#0000000d",
+        "color": "#1717170d",
         "type": "dropShadow",
         "x": 0,
         "y": 0,
@@ -49,7 +49,7 @@ module.exports = {
     ],
     "40": [
       {
-        "color": "#0000001a",
+        "color": "#1717171a",
         "type": "dropShadow",
         "x": 0,
         "y": ".25rem",
@@ -57,7 +57,7 @@ module.exports = {
         "spread": 0
       },
       {
-        "color": "#0000000d",
+        "color": "#1717170d",
         "type": "dropShadow",
         "x": 0,
         "y": 0,
@@ -75,7 +75,7 @@ module.exports = {
     ],
     "60": [
       {
-        "color": "#0000001a",
+        "color": "#1717171a",
         "type": "dropShadow",
         "x": 0,
         "y": ".50rem",
@@ -83,7 +83,7 @@ module.exports = {
         "spread": 0
       },
       {
-        "color": "#0000000d",
+        "color": "#1717170d",
         "type": "dropShadow",
         "x": 0,
         "y": 0,
@@ -101,7 +101,7 @@ module.exports = {
     ],
     "80": [
       {
-        "color": "#0000001a",
+        "color": "#1717171a",
         "type": "dropShadow",
         "x": 0,
         "y": ".75rem",
@@ -109,7 +109,7 @@ module.exports = {
         "spread": 0
       },
       {
-        "color": "#0000000d",
+        "color": "#1717170d",
         "type": "dropShadow",
         "x": 0,
         "y": 0,
@@ -127,7 +127,7 @@ module.exports = {
     ],
     "100": [
       {
-        "color": "#0000001a",
+        "color": "#1717171a",
         "type": "dropShadow",
         "x": 0,
         "y": "1rem",
@@ -135,7 +135,7 @@ module.exports = {
         "spread": 0
       },
       {
-        "color": "#0000000d",
+        "color": "#1717170d",
         "type": "dropShadow",
         "x": 0,
         "y": 0,
@@ -259,7 +259,7 @@ module.exports = {
       "surface": "#242429",
       "subtle": "#313038",
       "muted": "#4D4C59",
-      "canvas": "#000000"
+      "canvas": "#171717"
     },
     "accent": {
       "disabled": "#313038",
@@ -328,10 +328,10 @@ module.exports = {
       "default": "#313038"
     },
     "shadow": {
-      "default": "#000000"
+      "default": "#171717"
     },
     "overlay": {
-      "bg": "#000000",
+      "bg": "#171717",
       "fg": "#ffffff"
     },
     "solid": {
