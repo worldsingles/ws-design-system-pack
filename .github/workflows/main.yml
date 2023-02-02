@@ -1,0 +1,46 @@
+name: CI
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v2.4.0
+      # Install dependencies
+      - run: npm install
+      # Transform Figma Tokens JSON to something Style Dictionary can read
+      - run: yarn transform
+      # Run Style Dictionary config
+      - run: yarn build
+      # Add files that were created during a run, e.g. created files from style dictionary or token-transformer.
+      - name: Bump Versions
+        uses: michmich112/version-bumper@master
+        with:
+          scheme: org_semantic
+          version-file: "./package.json"
+          files: >
+            [
+              "./package-lock.json"
+            ] 
+          rules: >
+            [{
+              "trigger":"commit",
+              "branch": "staging",
+              "suffix": "-beta",
+              "bump":"build"
+            },{
+              "trigger": "commit",
+              "destBranch": "main",
+              "bump": "minor",
+              "tag": true
+            }, {
+              "trigger":"commit",
+              "branch":"release",
+              "bump":"major",
+              "tag": true,
+              "reset":["minor","build"]
+            }]
+          github-token: ${{ secrets.GITHUB_TOKEN }}
