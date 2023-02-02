@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 02 Feb 2023 19:31:06 GMT
+ * Generated on Thu, 02 Feb 2023 19:39:46 GMT
  */
 
 export const ThemeBrandPrimarySolid = "#F23C50";
@@ -58,8 +58,8 @@ export const ThemeInputAccentMuted = "#9888F8";
 export const ThemeInputAccentEmphasis = "#3C3270";
 export const ThemeInputAccentDisabled = "#E8E7EE";
 export const ThemeBorderDefault = "#E8E7EE";
-export const ThemeShadowDefault = "#171717";
-export const ThemeOverlayBg = "#171717";
+export const ThemeShadowDefault = "#000000";
+export const ThemeOverlayBg = "#000000";
 export const ThemeOverlayFg = "#ffffff";
 export const ThemeSolidFg = "#ffffff";
 export const ThemeSolidBlue = "#1473E6";
@@ -81,11 +81,11 @@ export const Size450 = "4.5rem";
 export const Size500 = "5rem";
 export const Size550 = "5.5rem";
 export const Size600 = "6rem";
-export const Elevate20 = [{"color":"#1717171a","type":"dropShadow","x":0,"y":".25rem","blur":".25rem","spread":0},{"color":"#1717170d","type":"dropShadow","x":0,"y":0,"blur":".25rem","spread":0},{"x":"1000rem","y":"1000rem","blur":0,"spread":0,"color":"#ffffff05","type":"innerShadow"}];
-export const Elevate40 = [{"color":"#1717171a","type":"dropShadow","x":0,"y":".25rem","blur":".50rem","spread":0},{"color":"#1717170d","type":"dropShadow","x":0,"y":0,"blur":".25rem","spread":0},{"x":"1000rem","y":"1000rem","blur":0,"spread":0,"color":"#ffffff08","type":"innerShadow"}];
-export const Elevate60 = [{"color":"#1717171a","type":"dropShadow","x":0,"y":".50rem","blur":".75rem","spread":0},{"color":"#1717170d","type":"dropShadow","x":0,"y":0,"blur":".25rem","spread":0},{"x":"1000rem","y":"1000rem","blur":0,"spread":0,"color":"#ffffff0a","type":"innerShadow"}];
-export const Elevate80 = [{"color":"#1717171a","type":"dropShadow","x":0,"y":".75rem","blur":"1rem","spread":0},{"color":"#1717170d","type":"dropShadow","x":0,"y":0,"blur":".25rem","spread":0},{"x":"1000rem","y":"1000rem","blur":0,"spread":0,"color":"#ffffff0d","type":"innerShadow"}];
-export const Elevate100 = [{"color":"#1717171a","type":"dropShadow","x":0,"y":"1rem","blur":"1.5rem","spread":0},{"color":"#1717170d","type":"dropShadow","x":0,"y":0,"blur":".25rem","spread":0},{"x":"1000rem","y":"1000rem","blur":0,"spread":0,"color":"#ffffff0f","type":"innerShadow"}];
+export const Elevate20 = [{"color":"#0000001a","type":"dropShadow","x":0,"y":".25rem","blur":".25rem","spread":0},{"color":"#0000000d","type":"dropShadow","x":0,"y":0,"blur":".25rem","spread":0},{"x":"1000rem","y":"1000rem","blur":0,"spread":0,"color":"#ffffff05","type":"innerShadow"}];
+export const Elevate40 = [{"color":"#0000001a","type":"dropShadow","x":0,"y":".25rem","blur":".50rem","spread":0},{"color":"#0000000d","type":"dropShadow","x":0,"y":0,"blur":".25rem","spread":0},{"x":"1000rem","y":"1000rem","blur":0,"spread":0,"color":"#ffffff08","type":"innerShadow"}];
+export const Elevate60 = [{"color":"#0000001a","type":"dropShadow","x":0,"y":".50rem","blur":".75rem","spread":0},{"color":"#0000000d","type":"dropShadow","x":0,"y":0,"blur":".25rem","spread":0},{"x":"1000rem","y":"1000rem","blur":0,"spread":0,"color":"#ffffff0a","type":"innerShadow"}];
+export const Elevate80 = [{"color":"#0000001a","type":"dropShadow","x":0,"y":".75rem","blur":"1rem","spread":0},{"color":"#0000000d","type":"dropShadow","x":0,"y":0,"blur":".25rem","spread":0},{"x":"1000rem","y":"1000rem","blur":0,"spread":0,"color":"#ffffff0d","type":"innerShadow"}];
+export const Elevate100 = [{"color":"#0000001a","type":"dropShadow","x":0,"y":"1rem","blur":"1.5rem","spread":0},{"color":"#0000000d","type":"dropShadow","x":0,"y":0,"blur":".25rem","spread":0},{"x":"1000rem","y":"1000rem","blur":0,"spread":0,"color":"#ffffff0f","type":"innerShadow"}];
 export const Radius25 = ".25rem";
 export const Radius50 = ".50rem";
 export const Radius100 = "1rem";
