@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 02 Feb 2023 19:39:46 GMT
+ * Generated on Thu, 02 Feb 2023 19:56:54 GMT
  */
 
 module.exports = {
@@ -97,10 +97,10 @@ module.exports = {
       "default": "#E8E7EE"
     },
     "shadow": {
-      "default": "#000000"
+      "default": "#171717"
     },
     "overlay": {
-      "bg": "#000000",
+      "bg": "#171717",
       "fg": "#ffffff"
     },
     "solid": {
@@ -131,7 +131,7 @@ module.exports = {
   "elevate": {
     "20": [
       {
-        "color": "#0000001a",
+        "color": "#1717171a",
         "type": "dropShadow",
         "x": 0,
         "y": ".25rem",
@@ -139,7 +139,7 @@ module.exports = {
         "spread": 0
       },
       {
-        "color": "#0000000d",
+        "color": "#1717170d",
         "type": "dropShadow",
         "x": 0,
         "y": 0,
@@ -157,7 +157,7 @@ module.exports = {
     ],
     "40": [
       {
-        "color": "#0000001a",
+        "color": "#1717171a",
         "type": "dropShadow",
         "x": 0,
         "y": ".25rem",
@@ -165,7 +165,7 @@ module.exports = {
         "spread": 0
       },
       {
-        "color": "#0000000d",
+        "color": "#1717170d",
         "type": "dropShadow",
         "x": 0,
         "y": 0,
@@ -183,7 +183,7 @@ module.exports = {
     ],
     "60": [
       {
-        "color": "#0000001a",
+        "color": "#1717171a",
         "type": "dropShadow",
         "x": 0,
         "y": ".50rem",
@@ -191,7 +191,7 @@ module.exports = {
         "spread": 0
       },
       {
-        "color": "#0000000d",
+        "color": "#1717170d",
         "type": "dropShadow",
         "x": 0,
         "y": 0,
@@ -209,7 +209,7 @@ module.exports = {
     ],
     "80": [
       {
-        "color": "#0000001a",
+        "color": "#1717171a",
         "type": "dropShadow",
         "x": 0,
         "y": ".75rem",
@@ -217,7 +217,7 @@ module.exports = {
         "spread": 0
       },
       {
-        "color": "#0000000d",
+        "color": "#1717170d",
         "type": "dropShadow",
         "x": 0,
         "y": 0,
@@ -235,7 +235,7 @@ module.exports = {
     ],
     "100": [
       {
-        "color": "#0000001a",
+        "color": "#1717171a",
         "type": "dropShadow",
         "x": 0,
         "y": "1rem",
@@ -243,7 +243,7 @@ module.exports = {
         "spread": 0
       },
       {
-        "color": "#0000000d",
+        "color": "#1717170d",
         "type": "dropShadow",
         "x": 0,
         "y": 0,
