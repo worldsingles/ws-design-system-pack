@@ -1,0 +1,20 @@
+{
+  "name": "ws-design-system-pack",
+  "version": "0.35.0",
+  "description": "Public package of WorldSingles Design System",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/worldsingles/ws-design-system-pack.git"
+  },
+  "keywords": [
+    "figma-tokens",
+    "design-systems",
+    "design-tokens",
+    "color",
+    "spacing",
+    "typography"
+  ],
+  "author": "WorldSingles",
+  "license": "MIT"
+}
