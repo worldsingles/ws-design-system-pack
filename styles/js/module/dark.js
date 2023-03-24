@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 22 Mar 2023 14:08:30 GMT
+ * Generated on Fri, 24 Mar 2023 19:18:15 GMT
  */
 
 module.exports = {
@@ -273,7 +273,7 @@ module.exports = {
       "emphasis": "#E82B74"
     },
     "warning": {
-      "defautl": "#FFBB38",
+      "default": "#FFBB38",
       "fg": "#DDA230",
       "muted": "#FFCE88",
       "subtle": "#FFE0B9",

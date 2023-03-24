@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 22 Mar 2023 14:08:30 GMT
+ * Generated on Fri, 24 Mar 2023 19:18:15 GMT
  */
 
 export const ThemeBrandPrimarySolid = "#F23C50";
@@ -23,7 +23,7 @@ export const ThemeAccentMuted = "#9888F8";
 export const ThemeAccentEmphasis = "#3C3270";
 export const ThemeCtaDefault = "linear-gradient(45deg, #F84739 0%, #E82B74 100%)";
 export const ThemeCtaEmphasis = "#E82B74";
-export const ThemeWarningDefautl = "#FFBB38";
+export const ThemeWarningDefault = "#FFBB38";
 export const ThemeWarningFg = "#DDA230";
 export const ThemeWarningMuted = "#FFCE88";
 export const ThemeWarningSubtle = "#FFE0B9";
