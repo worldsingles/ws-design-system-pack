@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 24 Mar 2023 19:18:15 GMT
+ * Generated on Mon, 07 Aug 2023 17:10:37 GMT
  */
 
 export const Size25 = ".25rem";
